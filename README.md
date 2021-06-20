@@ -9,7 +9,7 @@
 * Javascript
 
 ## Walkthrough Video
-
+https://www.youtube.com/watch?v=pmn_2uh-Kqs
 
 ## Contributions
 Cade Ellsworth, 2021
